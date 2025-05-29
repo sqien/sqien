@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Earlgrey 👋
 
-<!--
-**sqien/sqien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a programming student passionate about web development  
+💻 Currently learning **React**, **TailwindCSS**, and **TypeScript**  
+🚀 Building side projects and looking for internship opportunities  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend**: HTML, CSS(SCSS), JavaScript, React, Bootstrap, Tailwind(shadcn)
+- **Backend**: PHP
+- **Tools**: Git, Figma, VS Code, Photoshop,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasharymar&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasharymar&layout=compact&theme=dark)
+
+## 📫 How to reach me
+- Telegram: (https://t.me/TheEarlgrey)
+- Email: -
+
