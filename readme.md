@@ -1,8 +1,7 @@
 # Hi there, I'm Earlgrey 👋
 
-🎓 I'm a programming student passionate about web development  
+🎓 I'm a beginner web developer
 💻 Currently learning **React**, **TailwindCSS**, and **TypeScript**  
-🚀 Building side projects and looking for internship opportunities  
 
 ## 🛠️ Tech Stack
 
