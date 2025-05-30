@@ -24,8 +24,8 @@
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqien&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqien&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqien&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sqien&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 How to reach me
 - Telegram: (https://t.me/TheEarlgrey)
