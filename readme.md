@@ -1,7 +1,7 @@
 # Hi there, I'm Earlgrey 👋
 
 🎓 I'm a beginner web developer
-💻 Currently learning **React**, **TailwindCSS**, and **TypeScript**  
+💻 Currently learning **React**, and **TypeScript**  
 
 ## 🛠️ Tech Stack
 
